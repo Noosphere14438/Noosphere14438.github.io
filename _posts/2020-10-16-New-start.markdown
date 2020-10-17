@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New start!"
+date:   2020-10-16 20:10:05 +0000
+categories: blog
+permalink: /:categories/:title 
+---
+We are working!
+Нашу команду тепер можна знайти у STEM-центр "Сократ", де ми готуємося до всеукраїнських та міжнародних змагань FIRST Tech Challenge!
