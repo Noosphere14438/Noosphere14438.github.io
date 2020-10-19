@@ -3,6 +3,7 @@ layout: page
 title: Donation
 permalink: /donation/
 ---
-Donate pls
- 
-{% include donations-paypal.html id="228322" button="Donate" %}
+Donate with LiqPay
+<input type="button" value="Donate" onclick="window.open('https://www.liqpay.ua/uk/checkout/380675516228')" />
+
+
